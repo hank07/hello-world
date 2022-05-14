@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning</h1>
-    <p>Trying the jenkins to pick the changes automatically.Lets see</p>
+    <p>Trying the jenkins to pick the changes automatically.Lets see what</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
