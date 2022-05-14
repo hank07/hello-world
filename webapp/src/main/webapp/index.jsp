@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, I have updated this page: Bye, Karan </h1>
+   <h1> This is the version I am running after creating a BuildAndDeployOnContainer job in Jenkins </h1>
 
   
 </form>
