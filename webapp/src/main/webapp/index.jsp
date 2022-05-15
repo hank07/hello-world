@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> This is the version I am running after configuring ansible on 15-05-2022</h1>
+   <h1> Running version to be deployed by ansible</h1>
 
   
 </form>
